@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+-e .
+# This file lists the dependencies required for the project.
