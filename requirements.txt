@@ -1,5 +1,8 @@
 pandas
 numpy
 seaborn
--e .
+scikit-learn
+catboost
+xgboost
+# -e .
 # This file lists the dependencies required for the project.
